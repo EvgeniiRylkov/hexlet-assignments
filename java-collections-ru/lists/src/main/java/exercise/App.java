@@ -13,11 +13,11 @@ class App{
             return false;
         }
         var lowerCaseWorld = word.toLowerCase();
-        char[] letters = lowerCaseWorld.toCharArray();
-        for (char letter :
+        String[] letters = lowerCaseWorld.split("");
+        for (String letter :
                 letters) {
-            if (!symbols.contains(Character.toString(letter))) return false;
-            symbols = symbols.replaceFirst(Character.toString(letter), "");
+            if (!symbols.contains((letter))) return false;
+            symbols = symbols.replaceFirst((letter), "");
         }
         return true;
     }
