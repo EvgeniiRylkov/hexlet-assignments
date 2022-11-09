@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57236bfd-a250-4405-9973-cd5bb85f49bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,11 +103,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/rylkowe/Hexlet/hexlet-assignments/java-collections-ru/lists/src/main/java/exercise",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/rylkowe/java-project-61/app/config/checkstyle/checkstyle.xml",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.build"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
