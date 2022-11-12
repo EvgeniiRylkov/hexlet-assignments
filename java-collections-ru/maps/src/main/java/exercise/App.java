@@ -15,14 +15,14 @@ public class App {
         String[] words = sentence.split("\\s");
         Map<String, Integer> result = new HashMap<>();
 
-        for (String word :
-                words) {
+        for (String word
+                : words) {
             int count = 1;
             if (result.containsKey(word)) {
                 count = result.get(word);
-                count ++;
+                count++;
             }
-            result.put(word,count);
+            result.put(word, count);
         }
         return result;
     }
